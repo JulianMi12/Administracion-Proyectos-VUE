@@ -1,35 +1,13 @@
-# proyectos
+# 🏢 Proyecto Administración de Proyectos 📊
 
-This template should help get you started developing with Vue 3 in Vite.
+[![image.png](https://i.postimg.cc/8Cwk0dKx/image.png)](https://postimg.cc/WDFPDZP7)
+> Captura del inicio
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+> [!IMPORTANT]
+Proyecto realizado por Julian Miranda.
+2024
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![Logo-1](https://github.com/JulianMi12/Administracion-Hotelera/assets/71536893/892b1ce9-d87c-42a2-a10f-a860cafb7811)
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
